@@ -17,15 +17,14 @@ Following is list of tasks that you need to complete in this project. <br />
 
 # File Description
 
-Description.pdf: Contains Detailed Description of Project <br />
-src Folder: Contains Java Code for Implementation of Mesh Join <br />
-bin Folder: Contains Java Code for Implementation of Mesh Join <br />
-lib Folder: Contains External JAR Files to Validate Imports in Java Code <br />
-Report: Contains Detailed Project Report and Results Achieved <br />
-qureiesDW.sql: Contains OLAP Queries for Analysis of Warehouse <br />
-Transactional _ MasterData Generator.sql: Contains Initial Database Schema <br />
-createDW.sql: Contains the Star Schema Created <br />
-
+• Description.pdf: Contains Detailed Description of Project <br />
+• src Folder: Contains Java Code for Implementation of Mesh Join <br />
+• bin Folder: Contains Java Code for Implementation of Mesh Join <br />
+• lib Folder: Contains External JAR Files to Validate Imports in Java Code <br />
+• Report: Contains Detailed Project Report and Results Achieved <br />
+• qureiesDW.sql: Contains OLAP Queries for Analysis of Warehouse <br />
+• Transactional _ MasterData Generator.sql: Contains Initial Database Schema <br />
+• createDW.sql: Contains the Star Schema Created <br />
 
 # Languages
 
