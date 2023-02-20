@@ -10,9 +10,9 @@ METRO is one of the biggest superstores chains in Pakistan. The stores has thous
 
 # Tasks
 Following is list of tasks that you need to complete in this project. <br />
-1. Identifying appropriate dimension tables, fact table, and their attributes for the sales scenario presented in Figure 2. Based on that create a star-schema for DW with appropriate primary and foreign keys. <br />
-2. Implementing the MESHJOIN algorithm (using steps described in Section 6) in Java for successfully loading transactional data into DW after joining it with MD. <br />
-3. Applying of different analysis (described in Section 7) on DW using slicing, dicing, drill down, and materialising view concepts. <br />
+1. Identifying appropriate dimension tables, fact table, and their attributes for the sales. Based on that create a star-schema for DW with appropriate primary and foreign keys. <br />
+2. Implementing the MESHJOIN algorithm in Java for successfully loading transactional data into DW after joining it with MD. <br />
+3. Applying of different analysis on DW using slicing, dicing, drill down, and materialising view concepts. <br />
 4. Writing a project report that should include project overview, schema for DW, MESHJOIN algorithm, any three shortcomings in Mesh Join, and what did you learn from the project? <br />
 
 # File Description
